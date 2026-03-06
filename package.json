@@ -1,16 +1,32 @@
 {
-  "name": "codew-shihab-usingclaude",
+  "name": "netflix-clone",
   "version": "1.0.0",
+  "description": "A feature-rich Netflix clone built with Next.js, React, and Firebase, integrating with the TMDB API.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shihabcodes/netflix-clone.git"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "firebase",
+    "netflix-clone",
+    "tmdb",
+    "frontend",
+    "open-source"
+  ],
+  "author": "Shihab <shihabcodes>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shihabcodes/netflix-clone/issues"
+  },
+  "homepage": "https://github.com/shihabcodes/netflix-clone#readme",
   "dependencies": {
     "firebase": "^12.10.0",
     "next": "^16.1.6",
